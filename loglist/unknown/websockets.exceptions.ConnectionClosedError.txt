@@ -1,0 +1,2149 @@
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분32초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+2020년12월15일 - 13시48분33초 발생
+
+1 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 830, in transfer_data
+2 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 898, in read_message
+3 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 974, in read_data_frame
+4 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1050, in read_frame
+5 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/framing.py", line 105, in read
+6 : /usr/local/lib/python3.8/asyncio/streams.py", line 723, in readexactly
+7 : /usr/local/lib/python3.8/asyncio/streams.py", line 517, in _wait_for_data
+8 : /home/quizall/바탕화면/WebSocket/Actions/Host/HostAction.py", line 67, in start_Vote
+9 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 570, in send
+10 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 1086, in write_frame
+11 : /home/quizall/PycharmProjects/pythonProject/venv/lib/python3.8/site-packages/websockets/protocol.py", line 806, in ensure_open
+
+
+websockets.exceptions.ConnectionClosedError: code = 1006 (connection closed abnormally [internal]), no reason
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
